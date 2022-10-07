@@ -7,8 +7,8 @@ metadata:
     example.com/custom: custom_label_value
   annotations:
    
-      bitrise.io/app: 'react-native'
-      sentry.io: 'node-work'
+      bitrise.io/app: react-native
+      sentry.io: node-work
   tags:
     - java
   links:
