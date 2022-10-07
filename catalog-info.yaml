@@ -6,7 +6,7 @@ metadata:
   labels:
     example.com/custom: custom_label_value
   annotations:
-     backstage.io/techdocs-ref: dir:.
+   
       bitrise.io/app: 'react-native'
       sentry.io: 'node-work'
   tags:
